@@ -1,0 +1,36 @@
+.draggable {
+    /* width:65px;
+    border: 1px solid blue; */
+   
+}
+#rcorners {
+    border-radius: 20px;
+    border: 1px solid #000000;
+    width: 50px;
+    height: 15px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial;
+    padding: 7px;
+    margin-top: 5px;    
+}
+#droppable {
+    border:thin solid; 
+    height:300px;
+}
+.iconbox{
+    border:thin solid;
+    height: 150px;
+    background-color:#E5E7E9 ;
+}
+.jobnetbox{
+    height:70%;
+    /*padding-left: 5px;*/  
+    margin-top: 10px; 
+    background-color: white;
+    overflow: scroll;
+
+}
+
+
+

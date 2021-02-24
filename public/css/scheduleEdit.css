@@ -1,0 +1,102 @@
+.menu{
+    padding:5px 0px 5px 5px; 
+    background-color: powderblue;
+}
+
+.jobnetfooter{
+    background-color: powderblue; 
+    height: 50px;
+    margin-top: 466px;
+}
+
+.buttonbox{
+    float: right; 
+    margin-top:10px; 
+    margin-right: 20px; 
+}
+
+.buttonbox button{
+    width: 100px; 
+    height: 30px; 
+    background-color: white;
+}
+
+.tbl1 {
+	border: 1px solid black;
+    table-layout: fixed;
+    width: 50%;
+    white-space: nowrap;
+    float: left;
+}
+/* Column widths are based on these cells */
+.obj-id {
+  width: 20%;
+}
+.obj-name {
+  width: 20%;
+}
+.boottime {
+  width: 10%;
+}
+.tbl1 td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.tbl1 th {
+  background: whitesmoke;
+  color: black;
+}
+.tbl1 td,
+.tbl1 th {
+  text-align: left;
+  padding: 5px 10px;
+}
+
+.tbl2 {
+	border: 1px solid black;
+    table-layout: fixed;
+    width: 50%;
+    white-space: nowrap;
+}
+/* Column widths are based on these cells */
+.job-id {
+  width: 20%;
+}
+.job-name {
+  width: 30%;
+}
+.tbl2 td {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.tbl2 th {
+  background: whitesmoke;
+  color: black;
+}
+.tbl2 td,
+.tbl2 th {
+  text-align: left;
+  padding: 5px 10px;
+}
+
+.tbl1btn{
+    width: 80px; 
+    height: 30px; 
+    float: left; 
+    margin-top:15px;
+}
+
+.tbl1btn{
+	width: 50%;
+    float: right; 
+    margin-top:15px; 
+    margin-right: 20px; 
+}
+
+.tbl1btn button{
+    width: 80px; 
+    height: 30px; 
+    background-color: white;
+}
